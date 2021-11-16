@@ -1,3 +1,20 @@
 {
-  "pokemon": []
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "limber"
+    },
+    {
+      "id": 2,
+      "name": "picachu"
+    },
+    {
+      "id": 3,
+      "name": "ditto"
+    },
+    {
+      "id": 4,
+      "name": "mario"
+    }
+  ]
 }
